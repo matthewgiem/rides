@@ -1,0 +1,11 @@
+.ride {
+  display: none;
+}
+
+.ride .ride1, .ride .ride2, .ride .ride3, .ride .ride4 {
+  display: none;
+}
+
+.highlight  {
+  background-color: red;
+}
